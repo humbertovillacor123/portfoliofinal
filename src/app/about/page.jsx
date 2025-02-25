@@ -17,7 +17,7 @@ export default function About() {
             I am Humberto. I live in Utah, where I build amazing web experiences. 💻
           </h1>
           <p className="text-lg">
-            Hello! I'm <span className="font-bold text-green-600">Humberto</span>, a passionate software engineer focused on creating seamless and impactful web applications. My journey started with a curiosity for how websites work, and now it's my profession and passion. 🚀
+            Hello! I am <span className="font-bold text-green-600">Humberto</span>, a passionate software engineer focused on creating seamless and impactful web applications. My journey started with a curiosity for how websites work, and now its my profession and passion. 🚀
           </p>
           <p className="text-lg mt-4">
             I specialize in modern web technologies like <span className="text-blue-600 font-semibold">React, Next.js, and Tailwind CSS</span>, focusing on crafting user interfaces that are both functional and visually appealing.
@@ -33,7 +33,7 @@ export default function About() {
             alt="Humberto playing soccer"
             width={250}
             height={250}
-            className="rounded-full shadow-lg border-4 border-green-500"
+            className="rounded-full shadow-lg border-4 border-white-500"
           />
           {/* Sparkle effect */}
           <div className="absolute top-0 left-0 w-full h-full rounded-full animate-pulse border-2 border-teal-400 opacity-50"></div>
@@ -120,7 +120,7 @@ export default function About() {
         <div className="flex-1">
           <h2 className="text-3xl font-bold mb-2">My Person ❤️</h2>
           <p className="text-lg">
-            Life is even more beautiful when shared with someone special. I'm blessed to have an incredible partner, <span className="font-bold text-pink-500">Sara</span>, by my side. Her kindness, strength, and love make every day brighter. Together, we dream big and support each other’s aspirations.
+            Life is even more beautiful when shared with someone special. I am blessed to have an incredible partner, <span className="font-bold text-pink-500">Sara</span>, by my side. Her kindness, strength, and love make every day brighter. Together, we dream big and support each others aspirations.
           </p>
         </div>
       </motion.div>
@@ -162,7 +162,7 @@ export default function About() {
       >
         <h2 className="text-3xl font-bold mb-4">Let's Connect! 🤝</h2>
         <p className="text-lg mb-4">
-          I'm always excited to collaborate on projects that push boundaries. Feel free to reach out—let's create something amazing together!
+          I am always excited to collaborate on projects that push boundaries. Feel free to reach out—lets create something amazing together!
         </p>
         <div className="flex justify-center space-x-6">
           <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
