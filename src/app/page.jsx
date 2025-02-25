@@ -160,7 +160,7 @@ export default function Home() {
                     <h5 className="font-semibold">{job.company}</h5>
                     <p className="text-sm text-gray-600 dark:text-gray-400">{job.role}</p>
                     <p className="text-xs text-gray-500">{job.dates}</p>
-                  </div>
+                  </div> {/* eslint-disable-line react/no-unescaped-entities */}
                 </li>
               ))}
             </ul>

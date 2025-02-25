@@ -160,7 +160,7 @@ export default function About() {
         transition={{ duration: 0.6 }}
         className="mt-12 text-center"
       >
-        <h2 className="text-3xl font-bold mb-4">Let's Connect! 🤝</h2>
+        <h2 className="text-3xl font-bold mb-4">Lets Connect! 🤝</h2>
         <p className="text-lg mb-4">
           I am always excited to collaborate on projects that push boundaries. Feel free to reach out—lets create something amazing together!
         </p>

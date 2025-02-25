@@ -1,7 +1,7 @@
 // src/app/projects/layout.jsx
 
 export const metadata = {
-    title: "Projects - Humberto's Portfolio",
+    title: "Projects - Humbertos Portfolio",
     description: "Showcasing innovative projects crafted by Humberto Villanueva.",
   };
   
